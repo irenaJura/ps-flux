@@ -77,6 +77,30 @@
       "authorId": 2,
       "category": "dada",
       "createdAt": 1588007982530
+    },
+    {
+      "id": 12,
+      "slug": "new",
+      "title": "new",
+      "authorId": 1,
+      "category": "cat",
+      "createdAt": 1588008247461
+    },
+    {
+      "id": 13,
+      "slug": "airplane-2",
+      "title": "Airplane 2",
+      "authorId": 2,
+      "category": "Nova",
+      "createdAt": 1588008479688
+    },
+    {
+      "id": 14,
+      "slug": "toast-test",
+      "title": "Toast test",
+      "authorId": 1,
+      "category": "Nova",
+      "createdAt": 1588008540522
     }
   ],
   "authors": [
