@@ -85,6 +85,14 @@
       "authorId": 2,
       "category": "da",
       "createdAt": 1588082539958
+    },
+    {
+      "id": 13,
+      "slug": "new",
+      "title": "New",
+      "authorId": 1,
+      "category": "cat",
+      "createdAt": 1588083243946
     }
   ],
   "authors": [
